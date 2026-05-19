@@ -1,20 +1,107 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Website Om RT Angga
 
-# Run and deploy your AI Studio app
+A web-based digital platform designed to help Informatics Engineering students with thesis mentoring, application development, and modern software engineering implementation using AI-assisted and vibe coding approaches.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/61a0a652-b22f-4ee1-979d-7b7201e6aa0b
+## Overview
 
-## Run Locally
+Website Om RT Angga is an educational and mentoring platform focused on:
+- thesis guidance for Informatics Engineering students,
+- application development mentoring,
+- modern software implementation,
+- and AI-assisted development workflows.
 
-**Prerequisites:**  Node.js
+This project was created to help students build real-world applications faster, more efficiently, and with industry-relevant development practices.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Core Focus
+
+- Informatics Engineering thesis mentoring
+- Application development guidance
+- AI-assisted development workflow
+- Modern web development
+- Workflow automation
+- Vibe coding approach
+- Digital transformation learning
+- Practical software implementation
+
+---
+
+## Features
+
+- Responsive web interface
+- Thesis mentoring information
+- Application development guidance
+- Project showcase
+- Modern UI structure
+- Mobile-friendly layout
+- Structured navigation flow
+- Learning-oriented platform
+
+---
+
+## Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Development Workflow
+- GitHub
+- VS Code
+- AI-assisted coding workflow
+
+---
+
+## Learning Topics
+
+This platform focuses on practical implementation topics such as:
+- Fullstack development
+- REST API integration
+- Workflow automation
+- AI-assisted coding
+- Database integration
+- System architecture
+- Modern frontend implementation
+- Deployment fundamentals
+
+---
+
+## AI & Vibe Coding Approach
+
+This project is developed using modern engineering approaches including:
+- Claude AI
+- ChatGPT
+- AI-assisted development
+- Rapid prototyping
+- Workflow automation
+- Productivity-driven engineering
+
+The main goal is to accelerate development, problem solving, and software implementation using modern vibe coding methodologies.
+
+---
+
+## Project Objectives
+
+- Help students complete application-based thesis projects
+- Accelerate learning in modern software development
+- Bridge academic learning with industry practices
+- Introduce AI-assisted development workflows
+- Help students build practical project portfolios
+
+---
+
+## Folder Structure
+
+```bash
+Website-Om-Rt-Angga/
+│
+├── assets/
+├── css/
+├── js/
+├── images/
+├── index.html
+└── README.md
